@@ -1,0 +1,12 @@
+#outside-cont1{
+	display: flex;
+	flex-direction:row;
+}
+#outside-cont2{
+	display: flex;
+	flex-direction:row;
+}
+
+*{
+	margin: 8px;
+}
