@@ -1,0 +1,46 @@
+*{
+	margin: 0px;
+}
+
+#new-q-cont{
+	display:flex;
+	justify-content:end;
+}
+
+#submit-cont{
+	width: 350px;
+	display:flex;
+	justify-content:end;
+}
+
+#answerbtn-cont{
+	width: 175px;
+	display:flex;
+	justify-content:end;
+}
+
+#outside-cont1{
+	width:700px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+
+#dashboard-outside-cont{
+	width:850px;
+}
+
+#dashboard-table{
+	border:2px;
+	border-color:black;
+}
+
+#nav-bar{
+	height:50px;
+	margin: 0px;
+}
+
+#outside-all{
+	margin:8px;
+	margin-left:30px;
+}
